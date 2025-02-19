@@ -28,7 +28,7 @@ Barra Lateral 📌: Navegação intuitiva com atalhos para "Início", "Buscar" e
 
 Pesquisa de Artistas (Simulada) 🔍: Campo de entrada que permite filtrar artistas dinamicamente.
 
-#🛠 Executando o Projeto e a API Localmente
+#  🛠 Executando o Projeto e a API Localmente
 
 Para rodar a API localmente utilizando o JSON Server, siga os passos abaixo:
 
