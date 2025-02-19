@@ -2,6 +2,7 @@
 
 Este projeto foi desenvolvido durante a Imersão Front-End da Alura, com o objetivo de criar um clone do Spotify, focado na construção de uma interface inspirada na plataforma original. A aplicação conta com uma barra lateral funcional e uma área de busca dinâmica, onde a pesquisa é realizada com base em uma API criada para o projeto.
 
+
 # 🚀 Tecnologias Utilizadas
 
 JavaScript (ES6+): Implementação da lógica do aplicativo e criação da API.
@@ -17,6 +18,7 @@ FontAwesome: Ícones estilizados para navegação.
 Node.js: Manipulação do servidor.
 
 JSON Server: Simulação de uma API REST para consumo de dados.
+
 
 # 🎨 Funcionalidades
 
@@ -50,11 +52,12 @@ json-server --watch api-artists/artists.json --port 3000
 
 Agora, sua API estará disponível e poderá ser consumida pela aplicação React!
 
-#📌 Considerações Finais
+
+# 📌 Considerações Finais
 
 Este projeto é um excelente exercício para aprimorar habilidades em React.js, manipulação de APIs e criação de interfaces modernas e responsivas. Sinta-se à vontade para explorar e aprimorar a aplicação!
 
-🚀 Bons estudos e happy coding! 🎧
+# 🚀 Bons estudos e happy coding! 🎧
 
 
 
